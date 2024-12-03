@@ -1,0 +1,9 @@
+Model	     Freezer	  Fridge	  Compressor
+Haier	No Frost	No Frost	Inverter
+LG	No Frost	Manual	        Inverter
+LG	No Frost	No Frost	Standard
+LG	No Frost	No Frost	Linear-inverter
+Atlant	Manual	        Manual	        Standard
+Atlant	Manual	        No Frost	Standard
+Haier	No Frost	Manual	        Standard
+Atlant	No Frost	Manual          Standard
